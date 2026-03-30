@@ -4,3 +4,4 @@ pandas
 numpy
 PyMuPDF
 scikit-learn
+openai
